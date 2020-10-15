@@ -1,0 +1,14 @@
+{
+  "name": "hello_world_pratik",
+  "version": "1.0.0",
+  "description": "This library is just for test purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hello_world"
+  ],
+  "author": "Pratik <pratikgode@gmail.com>",
+  "license": "ISC"
+}
