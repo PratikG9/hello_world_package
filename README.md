@@ -1,0 +1,1 @@
+# To test how to publish a library to NPM registry
